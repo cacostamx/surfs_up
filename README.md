@@ -21,25 +21,25 @@ For this we made some queries to the weather database to extract the information
     - Although maximum temperatures seem around the same levels, minimum temperatures have a significant difference of 8° F, with December reaching really low temperatures for Hawaii.
     - Standard deviation seems a little higher for December, maybe due to the observations difference.
 
-        |**June Statistics**                     |**December Statistics**                    |
-        |:--------------------------------------:|:-----------------------------------------:|
-        |![June Stats](/Resources/june_stats.png)|![December Stats](/Resources/dec_stats.png)|
+    |**June Statistics**                     |**December Statistics**                    |
+    |:--------------------------------------:|:-----------------------------------------:|
+    |![June Stats](/Resources/june_stats.png)|![December Stats](/Resources/dec_stats.png)|
 
 
 ### Additional graphs and findings
 
 - ***Histogram comparison***.  When looking at the histogram we can see that December has less spread around the mean temperature, whereas June does show a wider spread around the mean. This would suggest that temperature in June is a little more fluctuating.
 
-        |**June Temp Histogram**                    |**December Temp Histogram**                   |
-        |:-----------------------------------------:|:--------------------------------------------:|
-        |![June Histogram](/Resources/hist_june.png)|![December Histogram](/Resources/hist_dec.png)|
+     |**June Temp Histogram**                    |**December Temp Histogram**                   |
+     |:-----------------------------------------:|:--------------------------------------------:|
+     |![June Histogram](/Resources/hist_june.png)|![December Histogram](/Resources/hist_dec.png)|
 
 
 - ***Distribution and outliers***. Box plots show that both months have some outliers, but December has more. Also it is more evident that June temperature is around 73° and 77° F, whereas December's is around 69° and 74° F.
 
-        |**June Box Plot**                       |**December Box Plot**                      |
-        |:--------------------------------------:|:-----------------------------------------:|
-        |![June Boxplot](/Resources/box_june.png)|![December Boxplot](/Resources/box_dec.png)|
+     |**June Box Plot**                       |**December Box Plot**                      |
+     |:--------------------------------------:|:-----------------------------------------:|
+     |![June Boxplot](/Resources/box_june.png)|![December Boxplot](/Resources/box_dec.png)|
 
 ## Summary
 
